@@ -1,5 +1,4 @@
-Developing a customer segmentation pipeline using K-Means clustering, feature engineering, scaling, and PCA to segment over 2,000 customers by behavioral and demographic features
-For businesses, this enables targeted marketing insights through cluster profiling
+Developing a customer segmentation pipeline using K-Means clustering, feature engineering, scaling, and PCA to segment over 2,000 customers by behavioral and demographic features for businesses, this enables targeted marketing insights through cluster profiling
 
 Work in progress: Methods of finding optimal K in exploratory_segmentation_model.py
 
